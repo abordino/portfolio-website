@@ -14,13 +14,12 @@ organizations:
     url: https://warwick.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include High Dimensional Statisitcs and Stastistical Machine Learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Machine Learning
+  - High Dimensional Statistics
 
 # Education to show in About widget
 education:
