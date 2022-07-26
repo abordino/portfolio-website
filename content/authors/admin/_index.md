@@ -11,7 +11,7 @@ role: PhD Student in Statistics at Warwick University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Warwick University
-    url: https://warwick.ac.uk/fac/sci/statistics/postgrad/research/
+    url: https://warwick.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Stastistical Machine Learning, Nonparametric Statistics and High Dimensional Statistics. 
@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a first year student of the Warwick Centre for Doctoral Training in Mathematics and Statistics, starting in October 2022, and I am kindly supported by the Statistics Department studenship. My research interests include Statistical Machine Learning, Nonparametric Statistics and High Dimensional Statistics: in the last year, I have worked on mathematical aspects of Neural Networks, also using Stein's methods, but I am willing to expand my research directions and work on new statistical problems. 
+I am a first year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), starting in October 2022, and I am kindly supported by the Statistics Department studenship. My research interests include Statistical Machine Learning, Nonparametric Statistics and High Dimensional Statistics: in the last year, I have worked on mathematical aspects of Neural Networks, also using Stein's methods, but I am willing to expand my research directions and work on new statistical problems. 
 
 Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics and Data Science at the University of Turin, working under the supervision of [Professor Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics at the University of Turin, during which I was recipient of the [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
