@@ -37,28 +37,20 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AlbertoBordino
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/abordino
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/abordino9873/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,4 +63,4 @@ I am a first year student of the [Warwick Centre for Doctoral Training in Mathem
 
 Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics and Data Science at the University of Turin, working under the supervision of [Professor Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics at the University of Turin, during which I was recipient of the [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}.
