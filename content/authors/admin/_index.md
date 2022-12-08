@@ -43,7 +43,7 @@ social:
     link: https://twitter.com/AlbertoBordino
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.it/citations?user=0H9qmw4AAAAJ&hl=it
   - icon: github
     icon_pack: fab
     link: https://github.com/abordino
