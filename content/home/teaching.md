@@ -10,14 +10,14 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Teaching
+title: Teaching and other activities
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - teaching
     tag: ''
     category: ''
     publication_type: ''
@@ -34,6 +34,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
+  view: card
   columns: '2'
 ---
