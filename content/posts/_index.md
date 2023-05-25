@@ -1,5 +1,5 @@
 ---
-title: Teaching and other activities
+title: Posts
 cms_exclude: true
 
 # View.

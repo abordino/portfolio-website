@@ -5,19 +5,18 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
-title: Teaching and other activities
+title: Recent Posts
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - teaching
+      - posts
     tag: ''
     category: ''
     publication_type: ''
