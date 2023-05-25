@@ -1,7 +1,7 @@
 ---
 title: Nice video about Stein's paradox.
-author: admiin
-date: 2022-12-07
+author: admin
+date: 2023-05-22
 ---
 
 This video gives an intuitive explanation why the James-Stein estimator dominates the sample average when the dimension is sufficiently large (greater than 3). Click the image to watch!

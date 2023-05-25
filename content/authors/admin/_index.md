@@ -41,8 +41,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlbertoBordino
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.it/citations?user=0H9qmw4AAAAJ&hl=it
   - icon: github
     icon_pack: fab
