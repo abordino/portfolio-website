@@ -7,16 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
-title: Recent Posts
+title: Attended conferences
 subtitle:
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - posts
+      - conferences
     tag: ''
     category: ''
     publication_type: ''
