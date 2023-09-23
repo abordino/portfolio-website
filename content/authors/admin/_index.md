@@ -19,7 +19,7 @@ bio: My research interests include Stastistical Machine Learning, Nonparametric 
 # Interests to show in About widget
 interests:
   - Nonparametric Statistics
-  - Statistical Machine Learning
+  - Statistical Learning Theory
   - Empirical Process Theory
 
 
@@ -60,8 +60,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a first year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/berrett/) on Nonparametric methods for Missing Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
+I am a second year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://thomasberrett.github.io/) on Nonparametric methods for Missing Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
 
 Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics and Data Science at the University of Turin, working under the supervision of [Professor Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics at the University of Turin, during which I was recipient of the [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
+
+Visit also [my academic website](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/bordino/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}.
