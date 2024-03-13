@@ -41,9 +41,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlbertoBordino
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: semantic-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=0H9qmw4AAAAJ&hl=it
+    link: https://www.semanticscholar.org/author/Alberto-Bordino/2196328970
   - icon: github
     icon_pack: fab
     link: https://github.com/abordino
