@@ -6,7 +6,7 @@ title: Alberto Bordino
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Statistics at Warwick University
+role: PhD Student in Statistics at the University of Warwick
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,13 @@ organizations:
     url: https://warwick.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Stastistical Machine Learning, Nonparametric Statistics and Empirical Process Theory.
+bio: Alberto Bordino, PhD Student in Statistics at the University of Warwick.
 
 # Interests to show in About widget
 interests:
   - Nonparametric Statistics
+  - Minimax Theory
   - Statistical Learning Theory
-  - Empirical Process Theory
-
 
 # Education to show in About widget
 education:
@@ -60,10 +59,16 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://thomasberrett.github.io/) on Nonparametric methods for Missing Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
+I am a second year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://thomasberrett.github.io/) on Nonparametric methods for Missing and Heterogeneous Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
 
 Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics and Data Science at the University of Turin, working under the supervision of [Professor Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics at the University of Turin, during which I was recipient of the [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
-Visit also [my academic website](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/bordino/).
+ - - - -
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé{{< /staticref >}}.
+Selected awards:
+- Silver Medal, awarded to the best graduate of the M.Sc. in Stochastics and Data Science at the University of Turin for the a.y. 2021/22.
+- INdAM scholarship for Bachelor Degree in Mathematics, granted by Istituto Nazionale di Alta Matematica (INdAM). Ranked 7th in Italy
+
+ - - - -
+
+Visit also [my academic website](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/bordino/). 
