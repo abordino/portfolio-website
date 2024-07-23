@@ -22,7 +22,7 @@ publishDate: '2024-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In AABI24, indexed in the Proceedings of Machine Learning Research through the Journal of Machine Learning Research
+publication: In the *Proceedings of Machine Learning Research (AABI24)*
 publication_short: In the *Proceedings of Machine Learning Research (AABI24)*
 
 abstract: There is a growing interest on large-width asymptotic properties of Gaussian neural networks (NNs), namely NNs whose weights are initialized according to Gaussian distributions. A well-established result is that, as the width goes to infinity, a Gaussian NN converges in distribution to a Gaussian stochastic process, which provides an asymptotic or qualitative Gaussian approximation of the NN. In this paper, we introduce some non-asymptotic or quantitative Gaussian approximations of Gaussian NNs, quantifying the approximation error with respect to some popular distances for (probability) distributions, e.g. the 1-Wasserstein distance, the total variation distance and the Kolmogorov-Smirnov distance. Our results rely on the use of second-order Gaussian Poincaré inequalities, which provide tight estimates of the approximation error, with optimal rates. This is a novel application of second-order Gaussian Poincaré inequalities, which are well-known in the probabilistic literature for being a powerful tool to obtain Gaussian approximations of general functionals of Gaussian stochastic processes. A generalization of our results to deep Gaussian NNs is discussed.

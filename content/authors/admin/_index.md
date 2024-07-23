@@ -66,6 +66,7 @@ Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics a
  - - - -
 
 Selected awards:
+- Google Deepmind travel award for AABI 2024.
 - Silver Medal, awarded to the best graduate of the M.Sc. in Stochastics and Data Science at the University of Turin for the a.y. 2021/22.
 - INdAM scholarship for Bachelor Degree in Mathematics, granted by Istituto Nazionale di Alta Matematica (INdAM). Ranked 7th in Italy
 
