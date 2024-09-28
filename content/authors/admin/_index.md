@@ -10,7 +10,7 @@ role: PhD Student in Statistics at the University of Warwick
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Warwick University
+  - name: University of Warwick 
     url: https://warwick.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,7 +60,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a second year student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://thomasberrett.github.io/) on Nonparametric methods for Missing and Heterogeneous Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
+I am a third year PhD student of the [Warwick Centre for Doctoral Training in Mathematics and Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), working under the supervision of [Dr Thomas Berrett](https://thomasberrett.github.io/) on Nonparametric methods for Missing and Heterogeneous Data. My research interests include Nonparametric Statistics and Statistical Learning Theory.
 
 Before joining the CDT programme in Warwick, I obtained a M.Sc. in Stochastics and Data Science at the University of Turin, working under the supervision of [Professor Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics at the University of Turin, during which I was recipient of the [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
