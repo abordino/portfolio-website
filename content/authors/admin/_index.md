@@ -53,7 +53,7 @@ Before Warwick I completed an M.Sc. in Stochastics & Data Science at the Univers
 
 ---
 
-## Selected honours & awards
+## Selected awards
 
 - **Google DeepMind travel award** – 6th *Symposium on Advances in Approximate Bayesian Inference* (AABI 2024).
 - **Silver Medal** – highest-ranking graduate of the M.Sc. in Stochastics & Data Science, University of Turin (A.Y. 2021/22).

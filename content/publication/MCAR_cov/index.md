@@ -8,21 +8,21 @@ authors:
   - admin
   - T. B. Berrett
 
-date: '2024-06-02T00:00:00Z'
+date: '2025-05-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-02T00:00:00Z'
+publishDate: '2025-05-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: The Annals of Statistics, *to appear*. I contributed to the R-package [MCARtest](https://cran.r-project.org/web/packages/MCARtest/index.html)
-publication_short: The Annals of Statistics, *to appear*. I contributed to the R-package [MCARtest](https://cran.r-project.org/web/packages/MCARtest/index.html)
+publication: In *The Annals of Statistics, to appear*. I contributed to the R-package [MCARtest](https://cran.r-project.org/web/packages/MCARtest/index.html)
+publication_short: In *The Annals of Statistics, to appear*. I contributed to the R-package [MCARtest](https://cran.r-project.org/web/packages/MCARtest/index.html)
 
 abstract: We study the problem of testing whether the missing values of a potentially high-dimensional dataset are Missing Completely at Random (MCAR). We relax the problem of testing MCAR to the problem of testing the compatibility of a collection of covariance matrices, motivated by the fact that this procedure is feasible when the dimension grows with the sample size. Our first contributions are to define a natural measure of the incompatibility of a collection of correlation matrices, which can be characterised as the optimal value of a Semi-definite Programming (SDP) problem, and to establish a key duality result allowing its practical computation and interpretation. By analysing the concentration properties of the natural plug-in estimator for this measure, we propose a novel hypothesis test, which is calibrated via a bootstrap procedure and demonstrates power against any distribution with incompatible covariance matrices. By considering key examples of missingness structures, we demonstrate that our procedures are minimax rate optimal in certain cases. We further validate our methodology with numerical simulations that provide evidence of validity and power, even when data are heavy tailed. Furthermore, tests of compatibility can be used to test the feasibility of positive semi-definite matrix completion problems with noisy observations, and thus our results may be of independent interest.
 
