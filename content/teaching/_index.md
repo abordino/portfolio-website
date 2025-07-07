@@ -16,7 +16,7 @@ header:
 ---
 
 ## Service
-- I reviewed for Bernoulli
+- I reviewed for Bernoulli and the Journal of Business & Economic Statistics.
 
 ## Teaching & other activities
 
