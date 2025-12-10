@@ -1,5 +1,5 @@
 ---
-title: "Attended and Upcoming Conferences"
+title: "Attended Conferences"
 cms_exclude: true
 
 # View types:
@@ -15,12 +15,18 @@ header:
   image: ""
 ---
 
-## Upcoming Conferences
+
+- **Meeting in Mathematical Statistics (CIRM)**
+
+  15-19 December, 2025 - Luminy, France
+
+- **1st International New Researchers Conference**
+
+  11-12 December, 2025 - Sevilla, Spain
+
 - **StatMathAppli 2025**
 
   1-5 September, 2025 - Fréjus, France
-
-## Past Conferences
 
 - **IMS International Conference on Statistics and Data Science (ICSDS)**
 

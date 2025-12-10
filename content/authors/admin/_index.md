@@ -47,9 +47,9 @@ avatar:
 
 ## About
 
-I am a third-year PhD student in the [Warwick Centre for Doctoral Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), supervised by [Dr Thomas Berrett](https://thomasberrett.github.io/). My research focuses on nonparametric methods for missing and heterogeneous data.
+I am a fourth year PhD student in the [Warwick Centre for Doctoral Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), supervised by [Dr Thomas Berrett](https://thomasberrett.github.io/). My research focuses on nonparametric methods for missing and heterogeneous data.
 
-Before Warwick I completed an M.Sc. in Stochastics & Data Science at the University of Turin, advised by [Prof Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics where I was awarded an [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
+Before Warwick I completed an M.Sc. in Stochastics & Data Science at the University of Turin, advised by [Prof. Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics where I was awarded an [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
 ---
 
