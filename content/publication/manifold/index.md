@@ -21,8 +21,8 @@ publishDate: '2026-01-12T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In the *Journal of the Royal Statistical Society Series B (Statistical Methodology)*. R code used for the simulations is available [here](https://github.com/abordino/ExploreManifoldHypothesis)
-publication_short: In the *Journal of the Royal Statistical Society Series B (Statistical Methodology)*. R code used for the simulations is available [here](https://github.com/abordino/ExploreManifoldHypothesis)
+publication: In the *Journal of the Royal Statistical Society Series B (Statistical Methodology)*, **88**(2), 402-404. R code used for the simulations is available [here](https://github.com/abordino/ExploreManifoldHypothesis)
+publication_short: In the *Journal of the Royal Statistical Society Series B (Statistical Methodology)*, **88**(2), 402-404. R code used for the simulations is available [here](https://github.com/abordino/ExploreManifoldHypothesis)
 
 abstract: Discussion paper
 

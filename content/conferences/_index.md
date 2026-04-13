@@ -14,7 +14,9 @@ header:
   caption: ""
   image: ""
 ---
+- **77th British Mathematical Colloquium**
 
+  30 March - 2 April, 2026 - Cardiff, Wales
 
 - **Meeting in Mathematical Statistics (CIRM)**
 
@@ -32,20 +34,20 @@ header:
 
   16-19 December 2024 - Nice, France
 
-- **International Symposium on Nonparametric Statistics**  
+- **6th International Symposium on Nonparametric Statistics**  
   25–29 June 2024 — Braga, Portugal
 
 - **Workshop on Heterogeneous and Distributed Data**  
-  10–12 June 2024 — Coventry, UK
+  10–12 June 2024 — Coventry, England
 
 - **Workshop on Bandits and Statistical Tests**  
   23–24 November 2023 — Neues Palais, Potsdam, Germany
 
 - **Workshop on Changepoint Analysis**  
-  30 May – 1 June 2023 — Coventry, UK
+  30 May – 1 June 2023 — Coventry, England
 
 - **Workshop on Optimal Transport and Machine Learning**  
-  23 January 2023 — Coventry, UK
+  23 January 2023 — Coventry, England
 
 - **IMS Annual Meeting 2022**  
-  27–30 June 2022 — London, UK
+  27–30 June 2022 — London, England
