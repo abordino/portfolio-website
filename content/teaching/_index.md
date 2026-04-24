@@ -20,6 +20,8 @@ header:
 
 ## Teaching & other activities
 
+- I was one of the organisers for the 2026 [Departmental Conference](https://warwick.ac.uk/fac/sci/statistics/news/deptconf/). The final schedule and book of abstracts can be found [here](https://warwick.ac.uk/fac/sci/statistics/news/deptconf/programme2026/).
+
 - Graduate teaching assistant (GTA) for [ST412-15/ST323-15 Multivariate Statistics](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st412) and [ST420-15 Statistical Learning and Big Data](https://warwick.ac.uk/fac/sci/statistics/postgrad/msmf/coursestructure/statisticallearningandbigdata) (A.Y. 2023-24)
 
 

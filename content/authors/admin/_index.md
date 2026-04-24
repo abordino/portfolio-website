@@ -55,6 +55,7 @@ Before Warwick I completed an M.Sc. in Stochastics & Data Science at the Univers
 
 ## Selected awards
 
+- Winner of the **Student paper award** - 7th International Symposium on Nonparametric Statistics (ISNPS 2026).
 - **Google DeepMind travel award** – 6th *Symposium on Advances in Approximate Bayesian Inference* (AABI 2024).
 - **Silver Medal** – highest-ranking graduate of the M.Sc. in Stochastics & Data Science, University of Turin (A.Y. 2021/22).
 - **INdAM scholarship** – national award for undergraduate studies in Mathematics, ranked 7th in Italy.
