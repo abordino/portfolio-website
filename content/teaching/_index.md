@@ -16,7 +16,7 @@ header:
 ---
 
 ## Service
-- I have reviewed for the Annals of Statistics, the Journal of the Royal Statistical Society Series B, Bernoulli, the Journal of Business & Economic Statistics, and the Journal of Statistical Planning and Inference.
+- I have reviewed for the Annals of Statistics, the Journal of the Royal Statistical Society Series B, Bernoulli, Statistical Science, the Journal of Business & Economic Statistics, the Journal of Computational and Graphical Statistics, and the Journal of Statistical Planning and Inference.
 
 ## Teaching & other activities
 

@@ -7,14 +7,12 @@ organizations:
   - name: "Department of Statistics, University of Warwick"
     url: "https://warwick.ac.uk/fac/sci/statistics/"
 
-bio: "Third-year PhD candidate developing nonparametric, minimax-optimal methods for learning with missing or heterogeneous data."
+bio: "Fourth-year PhD candidate developing nonparametric, minimax-optimal methods for learning with missing or heterogeneous data."
 
 interests:
   - Nonparametric Statistics
-  - Statistical Learning Theory
   - Minimax Theory
-  - Missing-Data
-  - Heterogeneous Data
+  - Missing and Heterogeneous Data
 
 education:
   courses:
@@ -53,15 +51,12 @@ Before Warwick I completed an M.Sc. in Stochastics & Data Science at the Univers
 
 ---
 
+<div style="font-size: 0.85em;">
+
 ## Selected awards
+- First place in the **G-Research 2026 PhD Prize in Statistics** at the University of Warwick.
 
-- Winner of the **Student paper award** - 7th International Symposium on Nonparametric Statistics (ISNPS 2026).
+- First place in the **Student paper award** - 7th International Symposium on Nonparametric Statistics (ISNPS 2026).
 - **Google DeepMind travel award** – 6th *Symposium on Advances in Approximate Bayesian Inference* (AABI 2024).
-- **Silver Medal** – highest-ranking graduate of the M.Sc. in Stochastics & Data Science, University of Turin (A.Y. 2021/22).
+- **Silver Medal** – highest-ranked graduate, M.Sc. in Stochastics & Data Science, University of Turin (A.Y. 2021/22).
 - **INdAM scholarship** – national award for undergraduate studies in Mathematics, ranked 7th in Italy.
-
----
-
-## Stay in touch
-
-If you would like to discuss research feel free to email me. Additional resources are available on my [university profile](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/bordino/).

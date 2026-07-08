@@ -14,6 +14,18 @@ header:
   caption: ""
   image: ""
 ---
+- **LMS Research Summer School in Robust Statistics and Reliable Learning Algorithms**
+
+  29 June - 3 July, 2026 - Coventry, England.
+
+- **6th International Symposium on Nonparametric Statistics**  
+
+  25–29 June 2024 — Braga, Portugal
+
+- **7th International Symposium on Nonparametric Statistics** 
+
+  22–26 June 2026 — Thessaloniki, Greece
+
 - **77th British Mathematical Colloquium**
 
   30 March - 2 April, 2026 - Cardiff, Wales
