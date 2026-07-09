@@ -18,10 +18,6 @@ header:
 
   29 June - 3 July, 2026 - Coventry, England.
 
-- **6th International Symposium on Nonparametric Statistics**  
-
-  25–29 June 2024 — Braga, Portugal
-
 - **7th International Symposium on Nonparametric Statistics** 
 
   22–26 June 2026 — Thessaloniki, Greece

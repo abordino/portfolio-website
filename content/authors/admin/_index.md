@@ -33,9 +33,6 @@ social:
   - icon: github
     icon_pack: fab
     link: "https://github.com/abordino"
-  - icon: twitter
-    icon_pack: fab
-    link: "https://twitter.com/AlbertoBordino"
 
 drop_cap: false
 highlight_name: true
