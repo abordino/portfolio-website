@@ -1,5 +1,5 @@
 ---
-title: 'Direct and efficient estimation of bilinear forms in staggered tensor panels'
+title: 'Estimation of Linear Functionals in Multilayer Panels under Staggered Adoption'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,10 +22,10 @@ publishDate: '2026-07-08T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint arXiv:2607.06330. R code used for the simulations is available [here](https://github.com/abordino/FunctionalCausalTensor)
-publication_short: Preprint arXiv:2607.06330. R code used for the simulations is available [here](https://github.com/abordino/FunctionalCausalTensor)
+publication: Preprint arXiv:2607.06330. R code used for the simulations is available [here](https://github.com/abordino/LinearMultilayerStaggered)
+publication_short: Preprint arXiv:2607.06330. R code used for the simulations is available [here](https://github.com/abordino/LinearMultilayerStaggered)
 
-abstract: We study the estimation of bilinear forms from noisy, partially observed tensor data. The signal follows a Tucker2 model, with shared unit and time factors across tensor layers and slice-specific cores. The missingness pattern is structured and motivated by staggered adoption designs, which are common in causal inference and related applications. We first analyse the four-block missingness pattern, the basic building block for general staggered adoption, and propose a spectral algorithm that pools information across layers and targets the functional directly, rather than completing the entire tensor. We prove a non-asymptotic mean squared error bound that exhibits a phase transition in the number of layers, showing when pooling improves estimation, and match it with a local minimax lower bound up to constants. We then extend the construction to general staggered adoption designs via an anchored four-block reduction, and derive analogous theoretical guarantees. Finally, we validate our theoretical findings through experiments on both simulated and real-world datasets.
+abstract: We study the estimation of bilinear forms from noisy, partially observed multilayer data. The signal follows a Tucker2 model, with shared unit and time factors across tensor layers and slice-specific cores. The missingness pattern is structured and motivated by staggered adoption designs, which are common in causal inference and related applications. We first analyze the four-block missingness pattern, the basic building block for general staggered adoption, and propose a spectral algorithm that pools information across layers and targets the functional directly. We prove a non-asymptotic mean squared error bound that exhibits a phase transition in the number of layers, showing when pooling improves estimation, and match it with a local minimax lower bound up to constants when ranks and logarithmic factors are treated as constant-order quantities. We then extend the construction to general staggered adoption designs via an anchored four-block reduction, and derive analogous theoretical guarantees. Finally, we validate our theoretical findings using synthetic and real-world data on Castle Doctrine laws and COVID-19 policies.
 
 tags: []
 
