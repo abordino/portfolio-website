@@ -1,13 +1,13 @@
 ---
 title: "Alberto Bordino"
 superuser: true
-role: "PhD Student in Statistics, Warwick CDT in Statistics"
+role: "Postdoctoral Research Fellow"
 
 organizations:
   - name: "Department of Statistics, University of Warwick"
     url: "https://warwick.ac.uk/fac/sci/statistics/"
 
-bio: "Fourth-year PhD candidate developing nonparametric, minimax-optimal methods for learning with missing or heterogeneous data."
+bio: "Research Fellow developing nonparametric theory and methods for missing or heterogeneous data."
 
 interests:
   - Nonparametric Statistics
@@ -42,9 +42,9 @@ avatar:
 
 ## About
 
-I am a fourth year PhD student in the [Warwick Centre for Doctoral Training in Statistics](https://warwick.ac.uk/fac/sci/statistics/postgrad/research/), supervised by [Prof. Thomas Berrett](https://thomasberrett.github.io/). My research focuses on nonparametric methods for missing and heterogeneous data.
+I am a postdoctoral Research Fellow under the ERC grant *HeDiStat: Statistical theory and methodology for the combination of heterogeneous and distributed data*, supervised by [Prof. Thomas Berrett](https://thomasberrett.github.io/). My research focuses on nonparametric methods for missing and heterogeneous data.
 
-Before Warwick I completed an M.Sc. in Stochastics & Data Science at the University of Turin, advised by [Prof. Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics where I was awarded an [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
+During my PhD at Warwick, I worked on similar topics under the supervision of Prof. Thomas Berrett. Before this, I completed an M.Sc. in Stochastics & Data Science at the University of Turin, advised by [Prof. Stefano Favaro](https://www.carloalberto.org/person/stefano-favaro/), and a B.Sc. in Mathematics where I was awarded an [INdAM](https://en.wikipedia.org/wiki/Istituto_Nazionale_di_Alta_Matematica_Francesco_Severi) scholarship.
 
 ---
 
